@@ -1,44 +1,103 @@
-# Hi 👋, I'm Rohit Bhabire
+<h1 align="center">Hi 👋, I'm Rohit Bhabire</h1>
 
-### 🚀 Full Stack Developer | AI Enthusiast | Final Year CSE (AI) Student
+<h3 align="center">
+🚀 Full Stack Developer | AI Enthusiast | Final Year CSE (AI) Student
+</h3>
 
-Passionate about Full Stack Development, Artificial Intelligence, Machine Learning, and building impactful software solutions.
+<p align="center">
+  <a href="https://github.com/Rohit-TecH306">
+    <img src="https://komarev.com/ghpvc/?username=Rohit-TecH306&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
 ## 💫 About Me
 
-🎓 Final Year B.Tech CSE (AI) Student at VIIT Pune
+🎓 Final Year B.Tech Computer Science & Engineering (Artificial Intelligence)
 
-💻 Currently focusing on:
+🏫 Vishwakarma Institute of Information Technology (VIIT), Pune
+
+💻 Passionate about building scalable web applications and AI-powered solutions
+
+🌱 Currently focusing on:
 
 - MERN Stack Development
 - Data Structures & Algorithms
 - Artificial Intelligence & Machine Learning
 - Generative AI & RAG Systems
 
-🌱 Always learning and building
+⚡ I enjoy solving problems, learning new technologies, and building projects that create real-world impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
-Java • JavaScript • Python
+### Languages
 
-HTML • CSS • Bootstrap • React
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Node.js • Express.js
+### Frontend
 
-MongoDB • MySQL
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-Git • GitHub • VS Code • Postman
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Data Structures & Algorithms
+- Building Full Stack Applications
+- Exploring AI & Generative AI
+- Learning System Design Fundamentals
+- Preparing for Software Engineering Roles
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 Email: bhabirerohit45@gmail.com
+<p align="left">
+<a href="mailto:bhabirerohit45@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 LinkedIn: www.linkedin.com/in/rohitbhabire
+<a href="https://www.linkedin.com/in/rohitbhabire">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🐙 GitHub: github.com/Rohit-TecH306
+<a href="https://github.com/Rohit-TecH306">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+### 💡 Quote
+
+> "Success is the sum of small efforts repeated day in and day out."
+
+---
+
+⭐ Thanks for visiting my profile!
