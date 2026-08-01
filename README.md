@@ -2,85 +2,43 @@
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Final Year CSE (AI) Student
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Passionate about building impactful software solutions using Full Stack Development, Artificial Intelligence, Machine Learning, and Generative AI.
-
-I enjoy transforming ideas into real-world applications, solving challenging problems through Data Structures & Algorithms, and continuously learning modern technologies.
+Passionate about Full Stack Development, Artificial Intelligence, Machine Learning, and building impactful software solutions.
 
 ---
 
 ## 💫 About Me
 
-🎓 Final Year B.Tech Computer Science & Engineering (Artificial Intelligence)
-
-🏫 Vishwakarma Institute of Information Technology (VIIT), Pune
+🎓 Final Year B.Tech CSE (AI) Student at VIIT Pune
 
 💻 Currently focusing on:
 
-* MERN Stack Development
-* Data Structures & Algorithms
-* Artificial Intelligence & Machine Learning
-* Generative AI & RAG Systems
+- MERN Stack Development
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Generative AI & RAG Systems
 
-🌱 Always learning, building, and improving
-
-🎯 Aspiring Software Engineer passionate about creating impactful technology
+🌱 Always learning and building
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+Java • JavaScript • Python
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+HTML • CSS • Bootstrap • React
 
-### Frontend
+Node.js • Express.js
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+MongoDB • MySQL
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-
----
-
-## 📈 GitHub Stats
-
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-TecH306\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-TecH306\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rohit-TecH306\&theme=tokyonight)
+Git • GitHub • VS Code • Postman
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 Email: [bhabirerohit45@gmail.com](mailto:bhabirerohit45@gmail.com)
+📧 Email: bhabirerohit45@gmail.com
 
-💼 LinkedIn: [www.linkedin.com/in/rohitbhabire](http://www.linkedin.com/in/rohitbhabire)
+💼 LinkedIn: www.linkedin.com/in/rohitbhabire
 
 🐙 GitHub: github.com/Rohit-TecH306
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
