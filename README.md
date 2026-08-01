@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rohit Bhabire</h1>
+# Hi 👋, I'm Rohit Bhabire
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | Final Year CSE (AI) Student
-</h3>
+### 🚀 Full Stack Developer | AI Enthusiast | Final Year CSE (AI) Student at VIIT Pune
 
-<p align="center">
-  <a href="https://github.com/Rohit-TecH306">
-    <img src="https://komarev.com/ghpvc/?username=Rohit-TecH306&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+Passionate about building impactful software solutions using **Full Stack Development, Artificial Intelligence, Machine Learning, and Generative AI**.
+
+I enjoy transforming ideas into real-world applications, solving challenging problems through Data Structures & Algorithms, and continuously learning modern technologies.
 
 ---
 
@@ -18,16 +14,14 @@
 
 🏫 Vishwakarma Institute of Information Technology (VIIT), Pune
 
-💻 Passionate about building scalable web applications and AI-powered solutions
-
-🌱 Currently focusing on:
+💻 Currently focusing on:
 
 - MERN Stack Development
 - Data Structures & Algorithms
 - Artificial Intelligence & Machine Learning
 - Generative AI & RAG Systems
 
-⚡ I enjoy solving problems, learning new technologies, and building projects that create real-world impact.
+🌱 Always learning, building, and improving
 
 ---
 
@@ -66,38 +60,14 @@
 
 ---
 
-## 🎯 Current Focus
-
-- Strengthening Data Structures & Algorithms
-- Building Full Stack Applications
-- Exploring AI & Generative AI
-- Learning System Design Fundamentals
-- Preparing for Software Engineering Roles
-
----
-
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="mailto:bhabirerohit45@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📧 **Email:** bhabirerohit45@gmail.com
 
-<a href="https://www.linkedin.com/in/rohitbhabire">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+💼 **LinkedIn:** linkedin.com/in/rohitbhabire
 
-<a href="https://github.com/Rohit-TecH306">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+🐙 **GitHub:** github.com/Rohit-TecH306
 
 ---
 
-### 💡 Quote
-
-> "Success is the sum of small efforts repeated day in and day out."
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
